@@ -1,5 +1,9 @@
 # Golang Context
 
+Sumber Tutorial:
+[Udemy](https://www.udemy.com/course/pemrograman-go-lang-pemula-sampai-mahir/learn/lecture/24915656#questions) |
+[Slide](https://docs.google.com/presentation/d/1WhJvRpKPWq7LY9P6fMN93vkjKa1bJwBQebbieKdefPw/edit)
+
 ## Pengenalan Context
 ---
 
